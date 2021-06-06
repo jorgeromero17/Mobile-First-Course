@@ -1,1 +1,1 @@
-# Plazti Mobile First Course Project :tw-1f4f1:
+# Plazti Mobile First Course Project
